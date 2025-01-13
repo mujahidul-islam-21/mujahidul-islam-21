@@ -19,20 +19,19 @@
 <table align="center">
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS" />
       <br>CSS
     </td>
-   
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
       <br>Tailwind
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="55" height="55" />
       <br>Sass
     </td>
     <td align="center" width="90">
@@ -40,37 +39,31 @@
       <br>Bootstrap
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
-     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="55" height="55" />
-      <br>Jquery
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jQuery" />
+      <br>jQuery
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="55" height="55" />
-      <br>Typescript
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <br>TypeScript
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=redux" width="45" height="45" alt="Redux" />
       <br>Redux
     </td>
-  </tr>
-
-  <tr>
-   
-  
-   
-    
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
       <br>Vue
     </td>
-   
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
       <br>Node.js
@@ -79,51 +72,35 @@
       <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
       <br>Express
     </td>
-  </tr>
-  <tr>
-   
-   
-   
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="RESTful API" width="55" height="55" />
       <br>RESTful API
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" alt="icon" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI" />
       <br>FastAPI
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next" />
+      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
     </td>
-   
-   
-  
-  </tr>
-
-  <tr>
-   
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="firebase" />
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
       <br>Firebase
     </td>
-  
-  </tr>
-
-  <tr>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
       <br>MySQL
     </td>
+  </tr>
+  <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
-
-  
-   
- 
+  </tr>
 </table>
+
 </p>
 <hr>
 <br>

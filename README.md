@@ -98,8 +98,17 @@
       <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
       <br>MongoDB
     </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/jwt-icon.svg" alt="JWT" width="55" height="55" />
+      <br>JWT
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=reactquery" width="45" height="45" alt="React Query" />
+      <br>React Query
+    </td>
   </tr>
 </table>
+
 
 </p>
 <hr>

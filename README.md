@@ -114,28 +114,27 @@
 </div>
 
 
-
 <!-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> -->
 
 <h1>
   <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40" /> About Me
 </h1>
-​
+
 <div>
   <p>
-    I'm a passionate Blockchain Developer and Project Manager. I thrive on working with innovative projects and excel in leading teams to achieve outstanding results.
+    I'm a passionate Web Developer and UI/UX Designer. I specialize in creating visually stunning, responsive, and user-friendly web applications.
   </p>
   
-  <img alt='coding' align='right' height='300' src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
+  <img alt="coding" align="right" height="300" src="https://github.com/kentaurse/kentaurse/blob/main/assests/images/coding.gif" />
 
   <ul>
-  <li>💼 <strong>Current Role</strong>: Blockchain Developer and Project Manager with a proven track record of delivering high-quality solutions.</li>
-  <li>👨‍💼 <strong>Team Leadership</strong>: Leading a talented team of developers, fostering collaboration and innovation.</li>
-  <li>🌱 <strong>Currently Learning</strong>: Advanced smart contract development and decentralized finance (DeFi).</li>
-  <li>💬 <strong>Expertise</strong>: Blockchain, Project Management, Full-stack Development. Open to new ideas and strategic insights.</li>
-  <li>📫 <strong>Contact</strong>: <a href="mailto:kentaurse0212@gmail.com">Gmail</a>, <a href="https://join.skype.com/invite/FVUI6gLcYgAE">Skype</a></li>
-  <li>😄 <strong>Pronouns</strong>: he/him</li>
-  <li>⚡ <strong>Fun Fact</strong>: Traveled to over 30 countries and enjoy hiking.</li>
-</ul>
-
+    <li>💼 <strong>Current Role</strong>: Web Developer and UI/UX Designer focused on building accessible and dynamic web solutions.</li>
+    <li>👨‍💼 <strong>Team Collaboration</strong>: Collaborating with designers, developers, and stakeholders to deliver user-centric products.</li>
+    <li>🌱 <strong>Currently Learning</strong>: Advanced state management with Redux Toolkit and exploring backend technologies like Node.js and FastAPI.</li>
+    <li>💬 <strong>Expertise</strong>: React, Next.js, Redux, Tailwind, and crafting intuitive user interfaces with accessibility in mind.</li>
+    <li>📫 <strong>Contact</strong>: <a href="mailto:mujahidulislamwebdev@gmail.com">Gmail</a>, <a href="https://www.linkedin.com/in/mujahidulislamwebdev">LinkedIn</a></li>
+    <li>😄 <strong>Pronouns</strong>: he/him</li>
+    <li>⚡ <strong>Fun Fact</strong>: I love exploring new technologies and have a keen interest in photography and travel.</li>
+  </ul>
 </div>
+

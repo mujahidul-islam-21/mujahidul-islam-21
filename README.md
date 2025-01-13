@@ -132,7 +132,7 @@
     <li>👨‍💼 <strong>Team Collaboration</strong>: Collaborating with designers, developers, and stakeholders to deliver user-centric products.</li>
     <li>🌱 <strong>Currently Learning</strong>: Advanced state management with Redux Toolkit and exploring backend technologies like Node.js and FastAPI.</li>
     <li>💬 <strong>Expertise</strong>: React, Next.js, Redux, Tailwind, and crafting intuitive user interfaces with accessibility in mind.</li>
-    <li>📫 <strong>Contact</strong>: <a href="mailto:mujahidulislamwebdev@gmail.com">Gmail</a>, <a href="https://www.linkedin.com/in/mujahidulislamwebdev">LinkedIn</a></li>
+    <li>📫 <strong>Contact</strong>: <a href="mailto:mujahidul451.asd@gmail.com">Gmail</a>, <a href="https://github.com/mujahidul-islam-21">LinkedIn</a></li>
     <li>😄 <strong>Pronouns</strong>: he/him</li>
     <li>⚡ <strong>Fun Fact</strong>: I love exploring new technologies and have a keen interest in photography and travel.</li>
   </ul>

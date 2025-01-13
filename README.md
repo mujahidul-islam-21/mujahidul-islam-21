@@ -39,17 +39,11 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />
       <br>Bootstrap
     </td>
-   
-   
-   
-  </tr>
-
-  <tr>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="55" height="55" />
       <br>JavaScript
     </td>
-    <td align="center" width="90">
+     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=jquery" alt="icon" width="55" height="55" />
       <br>Jquery
     </td>
@@ -65,6 +59,12 @@
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="55" height="55" />
       <br>Redux
     </td>
+  </tr>
+
+  <tr>
+   
+  
+   
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="55" height="55" />
       <br>Gatsby
